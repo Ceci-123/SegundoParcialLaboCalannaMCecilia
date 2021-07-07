@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1625147309 source:c:\users\user\desktop\pandemia\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625145990 c:\users\user\desktop\pandemia\linkedlist.h
+
+1625623911 source:c:\users\user\desktop\pandemia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"Controller.h"
+	<time.h>
+
+1624843207 c:\users\user\desktop\pandemia\validaciones.h
+
+1625662282 c:\users\user\desktop\pandemia\controller.h
+
+1625661200 source:c:\users\user\desktop\pandemia\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625662662 source:c:\users\user\desktop\pandemia\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"validaciones.h"
+	"Controller.h"
+	"pais.h"
+
+1624810677 c:\users\user\desktop\pandemia\parser.h
+
+1625662707 source:c:\users\user\desktop\pandemia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+
+1625662239 c:\users\user\desktop\pandemia\pais.h
+
+1625661522 source:c:\users\user\desktop\pandemia\pais.c
+	"pais.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
